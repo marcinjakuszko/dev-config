@@ -5,6 +5,7 @@
 - dracula for terminal
 - xcode tools
 - homebrew
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 - brew install --cask arc
 - brew install --cask raycast
 - proton pass for each profile in arc
