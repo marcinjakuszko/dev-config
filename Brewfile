@@ -1,6 +1,3 @@
-tap "homebrew/cask"
-tap "homebrew/services"
-
 # shell integrations
 brew "jq"
 brew "powerlevel10k"
@@ -21,6 +18,7 @@ cask "betterdisplay"
 # social
 cask "signal"
 cask "discord"
+cask "whatsapp"
 
 # proton
 cask "proton-pass"
@@ -32,6 +30,7 @@ mas "Endel", id: 1346247457
 mas "Proton Pass for Safari", id: 6502835663
 
 # personal
+cask "logi-options+"
 cask "elgato-stream-deck"
 cask "autodesk-fusion"
 cask "bambu-studio"
