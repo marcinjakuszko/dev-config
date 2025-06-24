@@ -47,7 +47,6 @@ cask "intellij-idea"
 
 # vscode
 cask "visual-studio-code"
-vscode "dracula-theme-pro.theme-dracula-pro"
 vscode "dracula-theme.theme-dracula"
 vscode "github.copilot"
 vscode "github.copilot-chat"
